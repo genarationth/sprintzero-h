@@ -25,3 +25,4 @@ Edit this Readme.md by attach link of your figma design.
 
 Paste you Figma designe here : 
 Group Aphabet [A-J]
+[Figma](https://www.figma.com/file/lwFxFc78JojQv1AkESNbxo/exercise-tracking-app?t=UvWlULtVhrOYC1YZ-1)
